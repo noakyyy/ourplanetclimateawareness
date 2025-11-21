@@ -18,7 +18,7 @@ The website focuses on:
 - simple, well-structured HTML, CSS, and JavaScript  
 
 The live site is hosted at:  
-**http://74.248.112.31**
+https://justin123.infinityfreeapp.com/
 
 ---
 
